@@ -5,7 +5,7 @@ const result = myArr.reduce(reducer, 0);
 
 console.log(result);
 
-//Function to give to reduce.
+//Function(reducer) to give to reduce.
 function reducer(accumulator, value){
     console.log('acc:', accumulator, '+val:', value);
     return accumulator + value;
