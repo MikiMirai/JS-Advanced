@@ -6,8 +6,7 @@ function biggerHalf(nums){
     for (let i = Math.floor(nums.length / 2); i < nums.length; i++){
         result.push(nums[i]);
     }
-    console.log(nums);
-
+    
     return result;
 }
 
