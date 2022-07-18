@@ -9,6 +9,7 @@
     "check-error": "^1.0.2",
     "deep-eql": "^3.0.1",
     "get-func-name": "^2.0.0",
+    "lit-html": "^2.2.6",
     "loupe": "^2.3.4",
     "pathval": "^1.1.1",
     "type-detect": "^4.0.8"
