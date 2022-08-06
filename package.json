@@ -11,6 +11,7 @@
     "get-func-name": "^2.0.0",
     "lit-html": "^2.2.6",
     "loupe": "^2.3.4",
+    "page": "^1.11.6",
     "pathval": "^1.1.1",
     "type-detect": "^4.0.8"
   },
